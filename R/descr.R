@@ -1,5 +1,7 @@
 utils::globalVariables("where")
 utils::globalVariables(".")
+#abc
+
 
 #' Calculate descriptive statistics
 #'
